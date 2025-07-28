@@ -1,4 +1,4 @@
-<h1 align="center">
+#<h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Oshan+Hasanka;ඔෂාන්+හසංක;Web+Developer;IT+Support;Graphic+Desiner;Photographer;Video+Edditer;Tech+Enthusiast;&center=true&width=500&height=50">
 </h1>
 
