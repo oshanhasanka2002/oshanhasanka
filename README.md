@@ -12,10 +12,10 @@ I am a dedicated web and graphic designer focused on delivering clear, effective
 ![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,)
 
 ## 📫 Get in Touch
-- 🌐 [yourwebsite.com](https://ovix.store)  
-- 📧 [youremail@example.com](mailto:ovix@oshanhasanka@gmail.com)  
-- 🐦 [@yourtwitter](https://twitter.com/OshanHasanka)  
-- 💼 [LinkedIn](https://linkedin.com/in/OshanHasanka)  
+- 🌐 [ovix.store](https://ovix.store)  
+- 📧 [ovix@oshanhasanka@gmail.com](mailto:ovix@oshanhasanka@gmail.com)  
+- 🐦 [@oshanhasanka](https://twitter.com/OshanHasanka)  
+- 💼 [OshanHasanka](https://linkedin.com/in/OshanHasanka)  
 
 ## 📡 Join My Discord Server
 
