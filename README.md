@@ -1,22 +1,27 @@
-# 👋 Hi, I'm [Your Name]
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Oshan+Hasanka;ඔෂාන්+හසංක;Web+Developer;IT+Support;Graphic+Desiner;Photographer;Video+Edditer;Tech+Enthusiast;&center=true&width=500&height=50">
+</h1>
 
-I'm a passionate and detail-oriented developer who loves building efficient, scalable, and impactful software. Whether it's crafting clean code, automating tasks, or learning the latest technologies — I'm always eager to grow and contribute.
+# 👋 Hi, I'm Oshan Hasanka
+
+I am a dedicated web and graphic designer focused on delivering clear, effective, and visually compelling solutions. My goal is to create designs and websites that communicate their purpose effortlessly and provide an excellent user experience.
 
 ## 🔧 Tech Stack
-![Languages](https://skillicons.dev/icons?i=js,ts,python,java,html,css)
-![Frameworks](https://skillicons.dev/icons?i=react,nodejs,nextjs,express,flutter)
-![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,docker)
-
-## 📈 GitHub Stats
-![Oshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=transparent)
+![Languages](https://skillicons.dev/icons?i=js,python,html,css)
+![Frameworks](https://skillicons.dev/icons?i=react,nodejs,)
+![Tools](https://skillicons.dev/icons?i=git,github,figma,vscode,linux,)
 
 ## 📫 Get in Touch
-- 🌐 [yourwebsite.com](https://yourwebsite.com)  
-- 📧 [youremail@example.com](mailto:youremail@example.com)  
-- 🐦 [@yourtwitter](https://twitter.com/yourtwitter)  
-- 💼 [LinkedIn](https://linkedin.com/in/yourprofile)  
+- 🌐 [yourwebsite.com](https://ovix.store)  
+- 📧 [youremail@example.com](mailto:ovix@oshanhasanka@gmail.com)  
+- 🐦 [@yourtwitter](https://twitter.com/OshanHasanka)  
+- 💼 [LinkedIn](https://linkedin.com/in/OshanHasanka)  
 
----
+## 📡 Join My Discord Server
 
-> “Code is like humor. When you have to explain it, it’s bad.” – Cory House
+[![Discord Status](https://img.shields.io/badge/🟢%20Server%20Online-Click%20to%20Join-7289da.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/W26bVDZvmD)
+
+![Discord Banner](https://discord.com/api/guilds/896800423195852820/widget.png?style=banner2)
+
+
+> © 2025 Oshan Hasanka. All rights reserved.
